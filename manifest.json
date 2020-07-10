@@ -1,24 +1,24 @@
 {
-    "format_version": 2,
-    "header": {
-        "description": "Example vanilla behavior pack",
-        "name": "Vanilla Behavior Pack",
-        "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
-        "version": [ 0, 0, 1 ],
-        "min_engine_version": [ 1, 14, 0 ]
-    },
-    "modules": [
-        {
-            "description": "Example vanilla behavior pack",
-            "type": "data",
-            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
-            "version": [0, 0, 1]
-        }
-    ],
-    "dependencies": [
-        {
-            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
-            "version": [0, 0, 1]
-        }
-    ]
+  "format_version": 2,
+  "header": {
+    "description": "Netherite Horse Armor",
+    "name": "Netherite Horse Armor",
+    "uuid": "c21f4465-a885-48af-975c-73f0115fe590",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Netherite Horse Armor",
+      "type": "data",
+      "uuid": "2ebe25f2-6669-47e1-923f-2c129d92d037",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1dd3ac75-e6c7-42e0-b42d-4cf986925fa9",
+      "version": [1, 0, 0]
+    }
+  ]
 }
