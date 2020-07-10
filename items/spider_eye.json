@@ -13,7 +13,7 @@
         "saturation_modifier": "good",
         "effects": [
           {
-            "name": "poison",
+            "name": "regeneration",
             "chance": 1.0,
             "duration": 5,
             "amplifier": 0
