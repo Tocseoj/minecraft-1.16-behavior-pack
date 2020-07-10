@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:netherite_horse_armor"
+    },
+
+    "tags": ["crafting_table"],
+    "pattern": ["# #", "###", "# #"],
+    "key": {
+      "#": {
+        "item": "minecraft:netherite_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:horsearmornetherite"
+    }
+  }
+}
